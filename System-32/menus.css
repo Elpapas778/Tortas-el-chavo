@@ -1,0 +1,22 @@
+a {
+  padding:0;
+}
+a {
+  display:inline;
+}
+a {
+  align-content: center;
+  font-family:Arial;
+  font-size:20px;
+  text-decoration:font-weight;
+  float:left;
+  padding:10px;
+  background-color:#F5D74E;
+  color:#fff;
+  transition: background-color .5s;
+  margin-right:600px;
+}
+
+a:hover {
+  background-color:darkred;
+}
